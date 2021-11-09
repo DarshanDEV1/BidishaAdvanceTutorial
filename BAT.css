@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(to left , red , orange);
+    background-image: url("https://e7.pngegg.com/pngimages/122/744/png-clipart-learning-through-play-pre-school-education-happy-feet-child-hand.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: top;
+    background-size: 150%;
+    background-image: repeating-radial-gradient(white , yellow);
+}
+.title{
+    text-align: center;
+    font-size: 85px;
+    color: orangered;
+}
+.roll{
+    text-align: center;
+    font-size: 70ox;
+}
+.options{
+    text-align: center;
+    font-size: 80px;
+}
+marquee{
+    text-align: center;
+    font-size: 70px;
+}
+a{
+    text-align: center;
+    font-size: 80px;
+}
+.contents{
+    text-align: center;
+    word-spacing: 40px;
+    margin-top: 170px;
+    font-size: xx-large;
+}
